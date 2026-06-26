@@ -84,6 +84,7 @@ Voice rules from `context/positioning.md`:
 - Direct, concrete, evidence-led, lightly technical (terminal/CLI brand)
 - Lead with retention proof and specific footprints
 - Never sound like a prospecting/lead-gen tool
+- You are speaking to a highly technical audience — lead with logic and data in your assessments, not narrative or intuition. If a claim can't be backed by a number, a named example, or a clear causal chain, leave it out.
 
 Style guardrails:
 - Short paragraphs (1–3 sentences). Long paragraphs are an AI tell.
@@ -122,6 +123,7 @@ Run the draft against this checklist. A "fail" on any item means the draft isn't
 - [ ] The thesis from the brief actually appears in the draft (Step 1 sentence is somewhere in the body)
 - [ ] CTA matches the brief and is not a free-trial offer
 - [ ] At least two product truths from Step 3 appear naturally in the text
+- [ ] Every assessment leads with logic or data (number, named example, causal chain) — never narrative or intuition. Audience is highly technical.
 
 Record the QA result in the artifact (per the Output Format below) — list any items that needed a rewrite and what changed.
 
